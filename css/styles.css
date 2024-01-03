@@ -1,0 +1,29 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+.icon {
+    width: 3em;
+    height: 3em;
+    vertical-align: -.125em;
+    margin: 0 0.5em;
+}
